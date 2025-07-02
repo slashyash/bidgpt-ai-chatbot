@@ -24,7 +24,7 @@ BidGPT is an AI-powered chatbot designed to assist users with bidding and tender
 ### Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/bidgpt-ai-chatbot.git
+   git clone https://github.com/slashyash/bidgpt-ai-chatbot.git
    cd bidgpt-ai-chatbot
    ```
 2. (Optional) Create a virtual environment:
